@@ -1,10 +1,8 @@
 name: CD - Déploiement sur GitHub Pages
 
-
 on:
  push:
    branches: [ "main" ]
-
 
 jobs:
   Deploiement:
